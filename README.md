@@ -1,4 +1,4 @@
-#linear_regression_ecommerce
+# linear_regression_ecommerce
 This repository has 2 files linear_regression_scratch and linear_regression_sklearn both files Train a model using The Linear regression algorythm to predict "Yearly amount spent by a customer" when given multiple inputs from the dataset 
 
 # linear_regression_scratch
