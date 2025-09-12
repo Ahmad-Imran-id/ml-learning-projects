@@ -6,3 +6,6 @@ This is a jupyter nootebook file where i have trained a model using linear regre
 
 # linear_regression_sklearn
 I have also trained the model using linear regression in this file but it was done using the sklearn library which is the main library used for Machine Learning in real world projects. This file also has some exploratory data analysis on the dataset answell as model acuracy evaluation at the end.
+
+# Dataset link:
+https://www.kaggle.com/datasets/kolawale/focusing-on-mobile-app-or-website?resource=download
