@@ -26,4 +26,4 @@ The goal of this repo is to:
 
 ---
 
-📌 *More projects will be added here as I progress through my ML learning journey.*
+*More projects will be added here as I progress through my ML learning journey.*
