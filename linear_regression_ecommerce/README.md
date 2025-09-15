@@ -1,13 +1,45 @@
-# linear_regression_ecommerce
-This repository has 2 files linear_regression_scratch and linear_regression_sklearn both files Train a model using The Linear regression algorythm to predict "Yearly amount spent by a customer" when given multiple inputs based on the dataset 
+# Linear Regression - E-commerce Customer Spending
 
-# linear_regression_scratch
-This is a jupyter nootebook file where i have trained a model using linear regression for multiple variables to be able to predict "Yearly amount spent by a customer" based on some data about the customer given by the ecommerce dataset manually writing python function with use of popular python libraries numpy and pandas. This file also explains Linear regression its concepts and it also explains each function and its usecase and why it is required. I have also performed some Explaratory Data Analysis of the dataset along with evaluating the models performance.
+This project implements a **regression model** to predict the **Yearly Amount Spent by a customer** based on multiple input features from an e-commerce dataset. The project has two parts:
+1. **Manual implementation** of linear regression using Python, NumPy, and Pandas
+2. **scikit-learn implementation** using `LinearRegression`
 
-# linear_regression_sklearn
-I have also trained the model using linear regression in this file but it was done using the sklearn library which is the main library used for Machine Learning in real world projects. This file also has some exploratory data analysis on the dataset answell as model acuracy evaluation at the end.
+---
 
-# Dataset link:
-https://www.kaggle.com/datasets/kolawale/focusing-on-mobile-app-or-website?resource=download
+## 📘 Project Details
 
+### 1. linear_regression_scratch.ipynb
+- Implements linear regression from scratch:
+  - Cost function 
+  - Gradient descent
+- Explains each step with Python functions and markdown notes
+- Includes exploratory data analysis (EDA) using Seaborn
+- Evaluates model performance with error metrics
 
+### 2. linear_regression_sklearn.ipynb
+- Trains a linear regression model using `scikit-learn`
+- Compares performance with the manual implementation
+- Includes additional exploratory data analysis
+- Evaluates the model’s accuracy and regression fit
+
+---
+
+## 📊 Dataset
+- Dataset: [E-commerce Customers Dataset](https://www.kaggle.com/datasets/kolawale/focusing-on-mobile-app-or-website?resource=download)  
+- Features include:
+  - Avg. Session Length
+  - Time on App
+  - Time on Website
+  - Length of Membership  
+- Target variable:
+  - `Yearly Amount Spent`
+
+---
+
+## ⚡ Key Learnings
+- Understanding the math behind linear regression
+- Implementing gradient descent for regression
+- Evaluating regression models
+- Comparing scratch vs library implementations
+
+---
